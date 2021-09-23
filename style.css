@@ -1,5 +1,37 @@
 *{
     padding: 0px;
     margin: 0px;
-    /* font-family: 'Roboto Mono', monospace; */
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container{
+
+    max-width: 55rem;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 14rem;
+}
+
+#title{
+
+    margin: 10px;
+    font-size: 5em;
+    font-weight:25rem;
+}
+
+.alert{
+    width: 50rem;
+    border-radius: 10px;
+}
+
+#num{
+
+    font-size: 1.2rem;
+}
+
+#showFact{
+
+    margin: 12px;
+    font-size: 1.2rem;
 }
